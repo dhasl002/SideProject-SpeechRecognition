@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\dhaslam\\tensorflow_speech_recognition_demo\\tflearn.lstm.model"
+all_model_checkpoint_paths: "C:\\Users\\dhaslam\\tensorflow_speech_recognition_demo\\tflearn.lstm.model"
